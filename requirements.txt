@@ -1,0 +1,6 @@
+pandas
+scikit-learn
+joblib
+imapclient
+fpdf
+email-validator
