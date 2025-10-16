@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Spam Email Detection Project – Summary
 1. Purpose
 
@@ -101,3 +102,6 @@ Follow menu options.
 For Gmail classification, input your email and App Password.
 
 CSVs will be saved in the project folder.
+=======
+# spam_email_detection
+>>>>>>> 2da87852ea2a5647ed8aec77773f237dc60c2646
